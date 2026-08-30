@@ -1,4 +1,5 @@
-# tuxmp — terminal music player by ABNOX & ENJO
+# tuxmp — terminal music player 
+by ABNOX & ENJO
 
 Search songs, play them, watch the album art render live in the
 terminal. Audio via yt-dlp + VLC, UI via Rich.
