@@ -1,4 +1,4 @@
-# tuxmp — terminal music player 
+# tuxmp — terminal music player  v0.1.0
 by ABNOX & ENJO
 
 Search songs, play them, watch the album art render live in the
