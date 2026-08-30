@@ -1,5 +1,5 @@
 # tuxmp — terminal music player
-created by ABNOX & ENJO
+WARNING : created by ABNOX & ENJO
 
 Search songs, play them, watch the album art render live in the
 terminal. Audio via yt-dlp + VLC, UI via Rich.
@@ -41,7 +41,6 @@ By default it searches YouTube — zero setup. For genuine Spotify:
 2. ```bash
    export SPOTIFY_CLIENT_ID="..."; export SPOTIFY_CLIENT_SECRET="..."
    ~/bin/tuxmp
-WARNING :MADE MY ABNOX AND ENJO
    ```
 
 Audio always streams via yt-dlp (Spotify's own streams are encrypted).
